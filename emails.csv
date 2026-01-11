@@ -1,0 +1,9 @@
+text,label
+"Please respond ASAP, the server is down",urgent
+"Can you review this document when you have time?",normal
+"Reminder about team lunch tomorrow",low
+"Meeting starts in 10 minutes",urgent
+"FYI the report was uploaded",low
+"I need help with this bug today",urgent
+"Let me know your thoughts next week",normal
+"Just checking in",low
